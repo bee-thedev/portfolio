@@ -385,17 +385,12 @@ header{
 
 @media (min-width: 600px){
 	.about-me{
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		width: auto;
-/* 	display: grid;
+	display: grid;
 	grid-template-areas:
 	"title img"
 	"subtitle img"
 	"text img";
-	grid-column-gap: 2em; */
+	grid-column-gap: 2em;
 }
 .section__title--about{
 		grid-area: title;

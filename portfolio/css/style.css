@@ -408,8 +408,6 @@ header{
 }
 .about-me__img{
 	grid-area: img;
-	width: auto;
-	height: 400px;
 	position: relative;
 	z-index: 2;
 }

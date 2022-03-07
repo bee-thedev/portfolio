@@ -407,7 +407,7 @@ header{
 		padding-right: calc(200px + 4em);
 }
 .about-me__img{
-/* 	grid-area: img; */
+	grid-area: img;
 	width: auto;
 	height: 400px;
 	position: relative;
